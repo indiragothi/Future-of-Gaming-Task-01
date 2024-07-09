@@ -9,5 +9,5 @@ The Battlefield 4 Server Info page provides detailed information about active ga
 - **Advanced Search and Filtering:** Allows players to search and filter servers based on various criteria, such as region, game mode, and player count, to quickly find the perfect match.
 
 ## Usage
-1. -Enables players to search for and join game servers that match their preferences, such as specific game modes, maps, and player counts.
-2. -Provides real-time updates on server status and player activity, ensuring an up-to-date and seamless gaming experience.
+1. Enables players to search for and join game servers that match their preferences, such as specific game modes, maps, and player counts.
+2. Provides real-time updates on server status and player activity, ensuring an up-to-date and seamless gaming experience.
