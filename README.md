@@ -1,3 +1,5 @@
+# The Battlefield 4 Server Info page
+
 ## Introduction
 The Battlefield 4 Server Info page provides detailed information about active game servers, including server names, player counts, game modes, maps, and server rules, enabling players to find and join suitable matches. It offers real-time updates and search functionalities to enhance the gaming experience.
 
