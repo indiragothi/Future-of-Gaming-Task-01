@@ -1,0 +1,123 @@
+.sidebar {
+    width: 70px;
+    margin-top: 5rem;
+    position: fixed;
+    z-index: 3;
+    background-color: transparent;
+}
+.navbar {
+    height: 120px;
+    box-shadow: none;
+    position: fixed;
+    z-index: 10;
+    
+}
+.content-wrapper {
+    margin-top: 6rem;
+    margin-left: 6rem;
+    background-color:transparent;
+    /* scroll-behavior:smooth */
+}
+
+.container-scroller {
+    z-index: 4;
+    background-image: url('./images/menu__background.jpg');
+    background-position: 10%;
+    background-repeat: no-repeat;
+    justify-content: flex-start;
+    align-items: center;
+    text-decoration: none;
+    transition: opacity .1s cubic-bezier(.455, .03, .515, .955);
+    top: 0%;
+    bottom: 0%;
+    left: 0%;
+    right: 0%;
+}
+.table-responsive {
+    overflow-x: auto;
+}
+.table-fixed {
+    table-layout: fixed;  
+    width: 100%; 
+}
+
+.table-fixed th, .table-fixed td {
+    word-wrap: break-word;  
+}
+  
+.bg1 {
+    background-color: transparent;
+    color: white;
+}
+.btn1 {
+    color: white;
+    background-color: transparent;
+    border-color: white;
+
+}
+.btn1:hover {
+    color: black;
+}
+.small-text {
+    font-size: 5px;  
+}
+td {
+    background-color: transparent;
+    color: white;
+    border-color: white;
+}
+td:hover {
+    color: black;
+    background-color: white;
+}
+.usa {
+    color:brown
+}
+
+.marg {
+    margin-left: 150px;
+}
+
+.hover-row:hover {
+    background-color: white !important;  
+    color: black !important;  
+}
+  
+.hover-row:hover td {
+    color: black !important;  
+}
+
+.custom-card {
+    background-color: black;
+    color: white;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    border: none;
+  }
+  
+  .custom-card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .custom-card .card-body {
+    padding: 1rem;
+  }
+  
+  .custom-card .card-text {
+    margin: 0;
+  }
+  
+  .custom-card:hover {
+    background-color: white;
+    color: black;
+  }
+  
+  .custom-card:hover .card-text {
+    color: black;
+  }
+
+  .img-width {
+    width: 25px;
+    height: 25px;
+  }
+  
