@@ -33,3 +33,7 @@ PORT = 3000
 npm start or npm run dev
 ```
 5. **Access**:Open your web browser and navigate to http://localhost:3000 to access Review System.
+
+## Submission Guideline
+
+1. **Repository Link:** [GitHub Repository](https://github.com/indiragothi/Future-of-Gaming-Task-01)
