@@ -14,9 +14,7 @@ dotenv.config();
 const __dirname = path.resolve();
 
 
-app.use(cors({
-    origin: ["http://localhost:3001/", "https://fog-animated-grid.onrender.com/"]
-}));
+app.use(cors());
 app.use(express.json())
 app.use(express.urlencoded({ extended: false }));
 
