@@ -4,7 +4,7 @@
   "description": "future-of-gaming assignment-01",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon backend/app.js",
     "build": "npm install && npm install --prefix frontend && npm run build --prefix frontend",
     "start": "node backend/app.js"
   },
@@ -16,5 +16,8 @@
     "env": "^0.0.2",
     "express": "^4.19.2",
     "mongoose": "^8.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
   }
 }
